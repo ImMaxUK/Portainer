@@ -1006,7 +1006,7 @@
          "name":"XBackBone",
          "description":"XBackBone is a simple, self-hosted, file storage server.",
          "platform":"linux",
-         "logo":"https://raw.githubusercontent.com/SergiX44/XBackBone/master/docs/img/xbackbone.png",
+         "logo":"https://i.imgur.com/hamMUmr.png",
          "image":"linuxserver/xbackbone:latest",
          "env":[
             {
